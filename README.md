@@ -26,9 +26,9 @@ These goals are ordered by priority and ranked on a scale from 1 to 5, with 5 be
 
 * Finish reading *Learning JavaScript* by Ethan Brown.
 
-* Fish all of the lessons in at [www.freecodecamp.org](https://www.freecodecamp.org/)
+* Finsh all of the lessons at [www.freecodecamp.org](https://www.freecodecamp.org/)
 
-* Attend at least 4 meetups a month, including Portland Javascript Admireres, Ruby Brigade, Full Stack PDX, and New Tech PDX.
+* Attend at least 5 meetups a month, including Portland Javascript Admireres, Ruby Brigade, Full Stack PDX, New Tech PDX, and Mentorship Saturdays.
 
 * Finish reading *The Well-Grounded Rubyist* by David A. Black.
 
@@ -36,7 +36,7 @@ These goals are ordered by priority and ranked on a scale from 1 to 5, with 5 be
 
 * Design and print business cards for the Epicodus Demo Day in February.
 
-* Improve my understanding of the map and reduce methods.
+* Improve my understanding of the map and reduce methods in JavaScript.
 
 * Write LinkedIn recommendations for my classmates and former coworkers.
 
@@ -60,13 +60,13 @@ These goals are ordered by priority and ranked on a scale from 1 to 5, with 5 be
 
 1. Shipping an MVP portfolio site in time for the new year is a priority, because it would serve as a very important reference for the recruiters and connections I meet during my job hunt.
 
-2. Continueing to expand on my capstone after week 5 of Rails will be vital to my success at Demo Day and give me a great project to demonstrate to potential employers.
+2. Continuing to expand on my capstone after week 5 of Rails will be vital to my success at Demo Day and give me a great project to demonstrate to potential employers.
 
 3. I need to be applying for jobs as often as I can. Differentiating myself with lofty projects and a fancy LinkedIn bio won't mean squat if I am not getting myself out there in person and on paper.
 
 ### Summary
 
-...
+My plan of action starts with building an MVP for my portfolio website by Christmas, continuing to apply for jobs, and expanding my capstone, or a similar project, beyond the Epicodus classroom. The most important thing is continuing to utilize the skills I have learned in new and interesting ways, while also deepening my understanding and meeting like-minded people along my journey. 
 
 ### Support and contact details
 
