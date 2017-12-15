@@ -1,42 +1,73 @@
-# _Post-Epicodus Goals_
+# Post-Epicodus Goals
 
-#### _This is an independent project exploring 22 objectives to keep you motivated and constantly learning after I graduate from Epicodus, 12.01.2017_
+#### This is an independent project exploring 20 objectives to keep you motivated and constantly learning after I graduate from Epicodus, 12.01.2017
 
-#### By _Riki Montgomery_
+#### By Riki Montgomery
 
 ### Goals
 
-1. _..._
-2. _..._
-3. _..._
-4. _..._
-5. _..._
-6. _..._
-7. _..._
-8. _..._
-9. _..._
-10. _..._
-11. _..._
-12. _..._
-13. _..._
-14. _..._
-15. _..._
-16. _..._
-17. _..._
-18. _..._
-19. _..._
-20. _..._
-21. _..._
-22. _..._
+These goals are ordered by priority and ranked on a scale from 1 to 5, with 5 being the lowest rank on the scale.
 
-### Further Exploration
+##### High Priority
 
-* _..._
+* Ship a minimum viable product for my portfolio website by the end of Christmas break.
+
+* Continue expanding on my Capstone Project and present at the Epicodus Demo Day in February.
+
+* ...
+
+* ...
+
+* Continue volunteering at Free Geek or give my time to mentoring new developers through another non-profit.
+
+##### Medium Priority
+
+* Finish reading *The Well-Grounded Rubyist* by David A. Black.
+
+* Finish reading *Learning JavaScript* by Ethan Brown.
+
+* Fish all of the lessons in at [www.freecodecamp.org](https://www.freecodecamp.org/)
+
+* Attend at least 4 meetups a month, including Portland Javascript Admireres, Ruby Brigade, Full Stack PDX, and New Tech PDX.
+
+* ...
+
+##### Low Priority
+
+* Print business cards to
+
+* ...
+
+* ...
+
+* ...
+
+* ...
+
+##### No Priority
+
+* Finish reading *Practical Object-Oriented Design in Ruby: An Agile Primer* by Sandi Metz
+
+* ...
+
+* ...
+
+* ...
+
+* ...
+
+### Top 3
+
+1. ...
+
+2. ...
+
+3. ...
 
 ### Support and contact details
 
-_If you have any questions or comments please email [me](mostriki820@gmail.com) directly._
+If you have any questions or comments please email [me](mostriki820@gmail.com) directly.
 
 ### License
 
-_© 2017 Riki Montgomery_
+© 2017 Riki Montgomery
