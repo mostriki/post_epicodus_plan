@@ -54,15 +54,15 @@ These goals are ordered by priority and ranked on a scale from 1 to 5, with 5 be
 
 * Build my own home network.
 
-* ...
+* Continue to plan regular hiking and backpacking trips with my friends in order to keep my sanity.
 
 ### Top 3
 
-1. ...
+1. Shipping an MVP portfolio site in time for the new year is a priority, because it would serve as a very important reference for the recruiters and connections I meet during my job hunt.
 
-2. ...
+2. Continueing to expand on my capstone after week 5 of Rails will be vital to my success at Demo Day and give me a great project to demonstrate to potential employers.
 
-3. ...
+3. I need to be applying for jobs as often as I can. Differentiating myself with lofty projects and a fancy LinkedIn bio won't mean squat if I am not getting myself out there in person and on paper.
 
 ### Summary
 
