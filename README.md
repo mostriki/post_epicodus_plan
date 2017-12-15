@@ -4,11 +4,7 @@
 
 #### By Riki Montgomery
 
-### Goals
-
-These goals are ordered by priority and ranked on a scale from 1 to 5, with 5 being the lowest rank on the scale.
-
-##### High Priority
+### High Priority Goals
 
 * Ship a minimum viable product for my portfolio website by the end of Christmas break.
 
@@ -20,7 +16,7 @@ These goals are ordered by priority and ranked on a scale from 1 to 5, with 5 be
 
 * Continue volunteering at Free Geek or give my time to mentoring new developers through another non-profit.
 
-##### Medium Priority
+### Medium Priority Goals
 
 * Practice whiteboarding and solve at least 3 [codewars](https://www.codewars.com/) problems a week using JavaScript.
 
@@ -32,7 +28,7 @@ These goals are ordered by priority and ranked on a scale from 1 to 5, with 5 be
 
 * Finish reading *The Well-Grounded Rubyist* by David A. Black.
 
-##### Low Priority
+### Low Priority Goals
 
 * Design and print business cards for the Epicodus Demo Day in February.
 
@@ -44,7 +40,7 @@ These goals are ordered by priority and ranked on a scale from 1 to 5, with 5 be
 
 * Read the *Bastards Book of Ruby*.
 
-##### No Priority
+### No Priority Goals
 
 * Start a blog for my portfolio website and begin journaling my experiences in tech. Write my first article about my time at Epicodus.
 
@@ -56,7 +52,7 @@ These goals are ordered by priority and ranked on a scale from 1 to 5, with 5 be
 
 * Continue to plan regular hiking and backpacking trips with my friends in order to keep my sanity.
 
-### Top 3
+### Top 3 Goals
 
 1. Shipping an MVP portfolio site in time for the new year is a priority, because it would serve as a very important reference for the recruiters and connections I meet during my job hunt.
 
@@ -66,7 +62,7 @@ These goals are ordered by priority and ranked on a scale from 1 to 5, with 5 be
 
 ### Summary
 
-My plan of action starts with building an MVP for my portfolio website by Christmas, continuing to apply for jobs, and expanding my capstone, or a similar project, beyond the Epicodus classroom. The most important thing is continuing to utilize the skills I have learned in new and interesting ways, while also deepening my understanding and meeting like-minded people along my journey. 
+My plan of action starts with building an MVP for my portfolio website by Christmas, continuing to apply for jobs, and expanding my capstone, or a similar project, beyond the Epicodus classroom. The most important thing is continuing to utilize the skills I have learned in new and interesting ways, while also deepening my understanding and meeting like-minded people along my journey.
 
 ### Support and contact details
 
