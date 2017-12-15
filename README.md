@@ -14,15 +14,15 @@ These goals are ordered by priority and ranked on a scale from 1 to 5, with 5 be
 
 * Continue expanding on my Capstone Project and present at the Epicodus Demo Day in February.
 
-* ...
+* Apply to at least 3 jobs and have lunch with at least one new LinkedIn or meetup connection every week.
 
-* ...
+* Finish the *Dissecting Ruby on Rails 5* Udemy course I started.
 
 * Continue volunteering at Free Geek or give my time to mentoring new developers through another non-profit.
 
 ##### Medium Priority
 
-* Finish reading *The Well-Grounded Rubyist* by David A. Black.
+* Practice whiteboarding and solve at least 3 [codewars](https://www.codewars.com/) problems a week using JavaScript.
 
 * Finish reading *Learning JavaScript* by Ethan Brown.
 
@@ -30,29 +30,29 @@ These goals are ordered by priority and ranked on a scale from 1 to 5, with 5 be
 
 * Attend at least 4 meetups a month, including Portland Javascript Admireres, Ruby Brigade, Full Stack PDX, and New Tech PDX.
 
-* ...
+* Finish reading *The Well-Grounded Rubyist* by David A. Black.
 
 ##### Low Priority
 
-* Print business cards to
+* Design and print business cards for the Epicodus Demo Day in February.
 
-* ...
+* Improve my understanding of the map and reduce methods.
 
-* ...
-
-* ...
-
-* ...
-
-##### No Priority
+* Write LinkedIn recommendations for my classmates and former coworkers.
 
 * Finish reading *Practical Object-Oriented Design in Ruby: An Agile Primer* by Sandi Metz
 
-* ...
+* Read the *Bastards Book of Ruby*.
 
-* ...
+##### No Priority
 
-* ...
+* Start a blog for my portfolio website and begin journaling my experiences in tech. Write my first article about my time at Epicodus.
+
+* Start the Welcome to React 16 - The Complete Guide (incl. React Router 4 & Redux).
+
+* Build my own gaming computer.
+
+* Build my own home network.
 
 * ...
 
@@ -63,6 +63,10 @@ These goals are ordered by priority and ranked on a scale from 1 to 5, with 5 be
 2. ...
 
 3. ...
+
+### Summary
+
+...
 
 ### Support and contact details
 
